@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_caculation.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_english.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_hien_tai_don.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_hien_tai_hoan_thanh.xml" value="0.11302083333333333" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_hien_tai_tiep_dien.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/activity_tuong_lai_don.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/Test3_English/app/src/main/res/layout/static_rv_item.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

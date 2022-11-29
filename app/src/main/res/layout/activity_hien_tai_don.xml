@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HienTaiDonActivity"
+    android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edittext"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:hint="Nhập vào đây"
+            android:textSize="14sp"
+            android:paddingLeft="20dp"
+            app:layout_constraintVertical_bias="0"
+            app:layout_constraintWidth_percent=".7"
+            app:layout_constraintHorizontal_bias="0"
+            android:paddingTop="15dp"
+            android:paddingBottom="10dp"
+            android:elevation="4dp"
+            android:background="@drawable/search_bg"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@id/hello_text"
+            app:layout_constraintTop_toBottomOf="@id/hello_text"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnThucHien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Add"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+         />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+
+</LinearLayout>
